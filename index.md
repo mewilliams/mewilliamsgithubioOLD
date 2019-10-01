@@ -2,6 +2,8 @@ My department website [is located here](http://obrasciviles.usm.cl/academicos/me
 
 #### Current Research Projects
 
+Improving understanding of sediment dynamics in strong salinity stratification using innovative field methods - Fondecyt Iniciación en Investigación (2019 - )
+
 
 #### Publications
 
