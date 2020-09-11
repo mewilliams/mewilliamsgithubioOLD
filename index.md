@@ -6,7 +6,7 @@ My department website [is located here](http://obrasciviles.usm.cl/academicos/me
 
 [BLUEcoast](https://projects.noc.ac.uk/bluecoast/) (UK NERC Highlight topic)
 
-[Cigiden, Linea 2: Amenazas por procesos de aguas superficiales](https://www.cigiden.cl/amenazas-por-procesos-de-aguas-superficiales/) [in English Line 2: Surface water processes and assosciated hazards](https://www.cigiden.cl/en/research-line/l2-surface-water-processes-and-associated-hazards/)
+[Cigiden, Linea 2: Amenazas por procesos de aguas superficiales](https://www.cigiden.cl/amenazas-por-procesos-de-aguas-superficiales/) (or in English [Line 2: Surface water processes and assosciated hazards](https://www.cigiden.cl/en/research-line/l2-surface-water-processes-and-associated-hazards/))
 
 #### Publications
 
