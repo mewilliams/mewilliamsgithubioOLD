@@ -1,4 +1,4 @@
-My department website [is located here](http://obrasciviles.usm.cl/academicos/megan-williams/)
+My department website (with contact information) [is located here](http://obrasciviles.usm.cl/academicos/megan-williams/). Please do not hesitate to contact me to ask about research opportunities. 
 
 ***
 
