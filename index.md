@@ -14,7 +14,7 @@ My department website (with contact information) [is located here](http://obrasc
 
 #### Publications
 
-[Google scholar](http://scholar.google.co.uk/citations?user=oNUFjE4AAAAJ)
+[Google scholar](https://scholar.google.com/citations?hl=en&user=CoaAqroAAAAJ)
 
 ***
 
