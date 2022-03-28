@@ -2,7 +2,8 @@
 
 **Instabilities:**
 
-Double-diffusive convection: https://www.youtube.com/watch?v=kEtTAcpzIJE
+Double-diffusive convection: https://youtu.be/kEtTAcpzIJE
+https://youtu.be/bldITqQutJc
 
 Kelvin-Helmholz instabilities:
 
