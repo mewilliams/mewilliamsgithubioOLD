@@ -22,6 +22,8 @@ My department website (with contact information) [is located here](http://obrasc
 
 Sebastián Gajardo - [CONSTRUCCION Y USO DE INSTRUMENTOS PARA MEDICIONES COSTERAS](https://repositorio.usm.cl/handle/11673/53354)
 
+***
+
 #### Other
 
 [Etc.](pages/etc.md)
