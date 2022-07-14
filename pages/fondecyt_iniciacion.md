@@ -7,7 +7,7 @@ To study the processes controlling fate of estuarine suspended sediments in stro
 
 ### Publications
 
-Flores, R., Williams, M.E., and Horner-Devine, A. (accepted), River plume modulation by infra gravity wave forcing. *Geophysical Research Letters*
+Flores, R., Williams, M.E., and Horner-Devine, A. (accepted), River plume modulation by infra gravity wave forcing. *Geophysical Research Letters*, doi:10.1029/2021GL097467
 
 Wei, X., Williams, M.E., Brown, J., Thorne, P., and Amoudry, L.O. (accepted), Salt intrusion as a function of estuary length in periodically weakly stratified estuaries. *Geophysical Research Letters*
 
