@@ -15,3 +15,8 @@ Guerrero, Q., Williams, M.E., Guillén, J., Lichtman, I.D., Thorne, P.D., and Am
 
 Wei, X., Schuttelaars, H.M., Williams, M.E., Brown, J.M., Thorne, P.D., and Amoudry, L.O. (2021), Unravelling interactions between asymmetric tidal turbulence, residual circulation and salinity dynamics in short, periodically weakly stratified estuaries. *Journal of Physical Oceanography*, 51(5), 1395-1416, [doi:10.1175/JPO-D-20-0146.1](https://journals.ametsoc.org/view/journals/phoc/51/5/JPO-D-20-0146.1.xml)
 
+### Conference Publications
+
+Sepúlveda, D., Williams, M. (2021), Efectos hidrodinámicos del viento en un estuario pequeño y
+estratificado. *Proceedings of the XXV Congreso Chileno de Ingeniería Hidráulica*
+
