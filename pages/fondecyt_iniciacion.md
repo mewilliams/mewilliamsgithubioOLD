@@ -20,3 +20,6 @@ Wei, X., Schuttelaars, H.M., Williams, M.E., Brown, J.M., Thorne, P.D., and Amou
 Sepúlveda, D., Williams, M. (2021), Efectos hidrodinámicos del viento en un estuario pequeño y
 estratificado. *Proceedings of the XXV Congreso Chileno de Ingeniería Hidráulica*
 
+### Undergradute Theses
+
+Gajardo, S. (2022), [Construcción y Uso de Instrumentos para Mediciones Costeras](https://hdl.handle.net/11673/53354), Departamento de Obras Civiles, Universidad Técnica Federico Santa María
