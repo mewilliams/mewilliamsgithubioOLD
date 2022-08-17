@@ -7,9 +7,9 @@ To study the processes controlling fate of estuarine suspended sediments in stro
 
 ### Publications
 
-Flores, R., Williams, M.E., and Horner-Devine, A. (accepted), River plume modulation by infragravity wave forcing. *Geophysical Research Letters*, doi:10.1029/2021GL097467
+Flores, R., Williams, M.E., and Horner-Devine, A. (2022), River plume modulation by infragravity wave forcing. *Geophysical Research Letters*, 49, e2021GL097467, [doi:10.1029/2021GL097467](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097467)
 
-Wei, X., Williams, M.E., Brown, J., Thorne, P., and Amoudry, L.O. (accepted), Salt intrusion as a function of estuary length in periodically weakly stratified estuaries. *Geophysical Research Letters*
+Wei, X., Williams, M.E., Brown, J., Thorne, P., and Amoudry, L.O. (2022), Salt intrusion as a function of estuary length in periodically weakly stratified estuaries. *Geophysical Research Letters*, 49, e2022GL099082, [doi:10.1029/2022GL099082](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL099082)
 
 Guerrero, Q., Williams, M.E., Guillén, J., Lichtman, I.D., Thorne, P.D., and Amoudry, L.O. (2021), Small-scale bedrooms and associated sediment transport in a macro-tidal lower shoreface. *Continental Shelf Research*, 104483, [doi:10.1016/j.csr.2021.104483](https://www.sciencedirect.com/science/article/abs/pii/S0278434321001400)
 
