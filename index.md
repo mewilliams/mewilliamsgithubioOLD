@@ -22,7 +22,7 @@ Jainaga, I., Roco, A., Flores, R., Williams, M., & Horner-Devine, A. (2021). Esq
 
 Sepúlveda, D., & Williams, M. (2021). Efectos hidrodinámicos del viento en un estuario pequeño y estratificado. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/
 
-Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., & Williams, M. (2021). Caracterización del recurso energético mareomotriz en el Estrecho de Magallanes. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/
+Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., & Williams, M. (2021). Caracterización del recurso energético mareomotriz en el Estrecho de Magallanes. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ [pdf](files/Trabajo-39-Congreso-XXV.pdf)
 
 
 
