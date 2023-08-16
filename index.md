@@ -18,11 +18,11 @@ My department website (with contact information) [is located here](http://obrasc
 
 ##### Conference Publications
 
-Jainaga, I., Roco, A., Flores, R., Williams, M., & Horner-Devine, A. (2021). Esquema predictivo para el destino de la descarga de ríos pequeños en la zona de rompiente: aplicación a la desembocadura del Río Maipo. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ [pdf](files/Trabajo-48-Congreso-XXV.pdf)
+Jainaga, I., Roco, A., Flores, R., Williams, M., & Horner-Devine, A. (2021). [Esquema predictivo para el destino de la descarga de ríos pequeños en la zona de rompiente: aplicación a la desembocadura del Río Maipo](files/Trabajo-48-Congreso-XXV.pdf). XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ 
 
-Sepúlveda, D., & Williams, M. (2021). Efectos hidrodinámicos del viento en un estuario pequeño y estratificado. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ [[pdf]](files/Trabajo-59-Congreso-XXV.pdf)
+Sepúlveda, D., & Williams, M. (2021). [Efectos hidrodinámicos del viento en un estuario pequeño y estratificado](files/Trabajo-59-Congreso-XXV.pdf). XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ 
 
-Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., & Williams, M. (2021). Caracterización del recurso energético mareomotriz en el Estrecho de Magallanes. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ [pdf](files/Trabajo-39-Congreso-XXV.pdf)
+Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., & Williams, M. (2021). [Caracterización del recurso energético mareomotriz en el Estrecho de Magallanes. XXV Congreso Chileno de Ingeniería Hidráulica](files/Trabajo-39-Congreso-XXV.pdf). Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/ 
 
 
 
