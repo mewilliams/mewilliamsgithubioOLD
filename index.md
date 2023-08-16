@@ -16,6 +16,14 @@ My department website (with contact information) [is located here](http://obrasc
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=CoaAqroAAAAJ)
 
+##### Conference Publications
+
+Sepúlveda, D., & Williams, M. (2021). Efectos hidrodinámicos del viento en un estuario pequeño y estratificado. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/
+
+Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., & Williams, M. (2021). Caracterización del recurso energético mareomotriz en el Estrecho de Magallanes. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/
+
+Jainaga, I., Roco, A., Flores, R., Williams, M., & Horner-Devine, A. (2021). Esquema predictivo para el destino de la descarga de ríos pequeños en la zona de rompiente: aplicación a la desembocadura del Río Maipo. XXV Congreso Chileno de Ingeniería Hidráulica. Retrieved from http://www.sochid.cl/publicaciones-sochid/congresos-chilenos/xxv-congreso-chileno-de-ingenieria-hidraulica/
+
 ***
 
 #### Student Theses
