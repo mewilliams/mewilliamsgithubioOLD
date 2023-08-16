@@ -32,6 +32,8 @@ Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., & Williams, M. (2021). [Carac
 
 Sebastián Gajardo - [CONSTRUCCION Y USO DE INSTRUMENTOS PARA MEDICIONES COSTERAS](https://repositorio.usm.cl/handle/11673/53354)
 
+Bruno Aravena - [CUANTIFICACIÓN DEL CAMPO DE VELOCIDADES SUPERFICIALES MEDIANTE IMÁGENES TOMADAS CON DRONES EN EL ESTUARIO DEL RÍO MAIPO](https://repositorio.usm.cl/handle/11673/55983)
+
 ***
 
 #### Other
