@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: jekyll-theme-minimal
 title: "Dr. Megan E. Williams"
 logo: pichicuy_image.jpg
 description: "Assistant Professor, Joint Appointment: Hydraulic & Environmental Engineering and Biological Sciences, Catholic University of Chile"
